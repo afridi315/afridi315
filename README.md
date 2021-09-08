@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Enayat Afridi (Code Hunter)
-- 👀 I’m interested in coding and software development
-- 🌱 I’m currently learning everything related to software development
+- 👀 I’m interested in solving a problem that is difficult to solve
+- 🌱 I’m currently learning everything related to latest technology and specially in software development
 - 💞️ I’m looking to collaborate on open source and contributive projects in android
 - 📫 How to reach me? Visit my [Portfolio](https://enayat.codehunters.org) or write me at enayat@codehunters.org or even you can [WhatsApp](https://wa.me/923159223072/)
 
